@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WatchingMe</string>
+    <string name="title_activity_main">WatchingMe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="navigate_to_tab">SlidingTabLayoutExample</string>
+    <string name="vector_test">VectorTestActivity</string>
+    <string name="error_timeout">connection timed out</string>
+    <string name="error_auth_failure">error auth failure</string>
+    <string name="error_server_error">Server Error</string>
+    <string name="erroe_network">Network Error</string>
+    <string name="erroe_parse_error">Parse Error</string>
+    <string name="search">Search View</string>
+    <string name="textedit">Text Edit</string>
+    <string name="recycler_animated_items">recyclerAnimatedItems</string>
+
+    <string-array name="tabs">
+        <item>首页</item>
+        <item>TV剧</item>
+        <item>游戏</item>
+    </string-array>
+
+    <string name="title_activity_activity_check_my_videos">ActivityCheckMyVideos</string>
+    <string name="title_activity_activity_register">ActivityRegister</string>
+
+</resources>

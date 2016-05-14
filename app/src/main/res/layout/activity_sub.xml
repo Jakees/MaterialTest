@@ -1,0 +1,26 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/app_bar_top_padding"
+
+    tools:context="com.example.titan.activities.ActivityToSearch">
+
+    <!--<include-->
+        <!--layout="@layout/app_bar_search"-->
+        <!--android:id="@+id/app_bar_search">-->
+    <!--</include>-->
+
+
+    <SearchView
+        android:id="@+id/sv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:searchIcon="@drawable/abc_ic_ab_back_mtrl_am_alpha"
+        android:background="@color/colorPrimary"
+        >
+
+    </SearchView>
+
+</RelativeLayout>

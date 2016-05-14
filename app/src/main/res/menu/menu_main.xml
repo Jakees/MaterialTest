@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.titan.activities.MainActivity">
+
+
+    <item android:id="@+id/action_search"
+        android:title="@string/search"
+        android:icon="@drawable/abc_ic_search_api_mtrl_alpha"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+
+    <!--<item android:id="@+id/navigate_to_tab"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/navigate_to_tab"-->
+        <!--app:showAsAction="never"-->
+        <!--></item>-->
+
+    <!--<item android:id="@+id/recyclerAnimatedItems"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/recycler_animated_items"-->
+        <!--app:showAsAction="never"-->
+        <!--></item>-->
+
+</menu>
